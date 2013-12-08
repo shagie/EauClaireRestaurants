@@ -1073,6 +1073,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -91.552222,
+                    44.885833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Applied Data Consultants",
+                "marker-symbol": "building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -91.436501,
                     44.771179,
                     0
