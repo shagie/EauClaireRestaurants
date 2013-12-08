@@ -13,8 +13,7 @@
             },
             "properties": {
                 "name": "Menards GO",
-                "styleUrl": "#style24",
-                "styleHash": "-4e543035"
+                "marker-symbol": "industrial"
             }
         },
         {
@@ -29,8 +28,7 @@
             },
             "properties": {
                 "name": "Midwest Manufacturing GO",
-                "styleUrl": "#style4",
-                "styleHash": "-3280239b"
+                "marker-symbol": "industrial"
             }
         },
         {
@@ -45,9 +43,8 @@
             },
             "properties": {
                 "name": "29 Pines",
-                "styleUrl": "#style12",
-                "styleHash": "71be413a",
-                "description": "<div dir=\"ltr\">Travel Plaza and Sit down place</div>"
+                "description": "Travel Plaza and Sit down place",
+                "marker-symbol": "beer"
             }
         },
         {
@@ -62,10 +59,9 @@
             },
             "properties": {
                 "name": "Burger King",
-                "styleUrl": "#style31",
-                "styleHash": "-6f5eda23",
-                "description": "<div dir=\"ltr\">Burger King<br>Warning - Slow service inside</div>"
-            }
+                "description": "Burger King Warning - Slow service inside",
+                "marker-symbol": "fast-food"
+           }
         },
         {
             "type": "Feature",
@@ -79,8 +75,7 @@
             },
             "properties": {
                 "name": "Mc Donalds",
-                "styleUrl": "#style11",
-                "styleHash": "79a15adb"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -95,8 +90,7 @@
             },
             "properties": {
                 "name": "Subway",
-                "styleUrl": "#style55",
-                "styleHash": "-77eb75a5"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -111,8 +105,7 @@
             },
             "properties": {
                 "name": "Subway",
-                "styleUrl": "#style41",
-                "styleHash": "-63def4a2"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -127,8 +120,7 @@
             },
             "properties": {
                 "name": "Culvers",
-                "styleUrl": "#style46",
-                "styleHash": "3a828c3d"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -143,8 +135,7 @@
             },
             "properties": {
                 "name": "Burger King",
-                "styleUrl": "#style2",
-                "styleHash": "708d6d55"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -159,9 +150,8 @@
             },
             "properties": {
                 "name": "Golden Dragon",
-                "styleUrl": "#style28",
-                "styleHash": "-d2b007",
-                "description": "<div dir=\"ltr\">Chinese</div>"
+                "marker-symbol": "restaurant",
+                "description": "Chinese"
             }
         },
         {
@@ -176,9 +166,8 @@
             },
             "properties": {
                 "name": "Cancun",
-                "styleUrl": "#style58",
-                "styleHash": "-7e74f904",
-                "description": "<div dir=\"ltr\">Mexican</div>"
+                "marker-symbol": "restaurant",
+                "description": "Mexican"
             }
         },
         {
@@ -193,8 +182,7 @@
             },
             "properties": {
                 "name": "Mikes Smokehouse",
-                "styleUrl": "#style33",
-                "styleHash": "-44fa8d61"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -209,8 +197,7 @@
             },
             "properties": {
                 "name": "Dairy Queen",
-                "styleUrl": "#style51",
-                "styleHash": "-585f0f21"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -225,9 +212,8 @@
             },
             "properties": {
                 "name": "Not Ciciones",
-                "styleUrl": "#style38",
-                "styleHash": "596b7276",
-                "description": "<div dir=\"ltr\">Not that great</div>"
+                "marker-symbol": "restaurant",
+                "description": "Not that great"
             }
         },
         {
@@ -242,8 +228,7 @@
             },
             "properties": {
                 "name": "Pizza Hut",
-                "styleUrl": "#style20",
-                "styleHash": "-72fba603"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -258,8 +243,7 @@
             },
             "properties": {
                 "name": "Godfather's Pizza",
-                "styleUrl": "#style17",
-                "styleHash": "4a4ec115"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -274,8 +258,7 @@
             },
             "properties": {
                 "name": "Taco Bell",
-                "styleUrl": "#style9",
-                "styleHash": "3957b9ee"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -290,8 +273,7 @@
             },
             "properties": {
                 "name": "Green Mill",
-                "styleUrl": "#style65",
-                "styleHash": "-58ba423c"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -306,8 +288,7 @@
             },
             "properties": {
                 "name": "Mc Donalds",
-                "styleUrl": "#style25",
-                "styleHash": "6594d9d8"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -322,8 +303,7 @@
             },
             "properties": {
                 "name": "Starbucks",
-                "styleUrl": "#style5",
-                "styleHash": "58e42072"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -338,8 +318,7 @@
             },
             "properties": {
                 "name": "Jimmy Johns",
-                "styleUrl": "#style69",
-                "styleHash": "74080958"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -354,8 +333,7 @@
             },
             "properties": {
                 "name": "Mancinos",
-                "styleUrl": "#style52",
-                "styleHash": "2ecf4dc2"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -370,8 +348,7 @@
             },
             "properties": {
                 "name": "Hardees",
-                "styleUrl": "#style14",
-                "styleHash": "61f80df8"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -386,8 +363,7 @@
             },
             "properties": {
                 "name": "Arbys",
-                "styleUrl": "#style34",
-                "styleHash": "78f7d8fa"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -402,8 +378,7 @@
             },
             "properties": {
                 "name": "Pizza Ranch",
-                "styleUrl": "#style63",
-                "styleHash": "3d6329a2"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -418,8 +393,7 @@
             },
             "properties": {
                 "name": "Red Robin",
-                "styleUrl": "#style60",
-                "styleHash": "-73015c97"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -434,8 +408,7 @@
             },
             "properties": {
                 "name": "Dairy Queen",
-                "styleUrl": "#style70",
-                "styleHash": "4c4ffde6"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -450,8 +423,7 @@
             },
             "properties": {
                 "name": "Cousins Subs",
-                "styleUrl": "#style15",
-                "styleHash": "-201ee345"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -466,8 +438,7 @@
             },
             "properties": {
                 "name": "Quizros",
-                "styleUrl": "#style10",
-                "styleHash": "7509ce0"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -482,9 +453,8 @@
             },
             "properties": {
                 "name": "Mall",
-                "styleUrl": "#style7",
-                "styleHash": "-3115ea6c",
-                "description": "<div dir=\"ltr\">Food court<br>Fridays</div>"
+                "marker-symbol": "restaurant",
+                "description": "Food cour: Fridays, Rocky Rococo, Etc..."
             }
         },
         {
@@ -499,8 +469,7 @@
             },
             "properties": {
                 "name": "Chipolte",
-                "styleUrl": "#style22",
-                "styleHash": "30a4f1f"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -515,8 +484,7 @@
             },
             "properties": {
                 "name": "Culvers",
-                "styleUrl": "#style29",
-                "styleHash": "-342b6448"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -531,8 +499,7 @@
             },
             "properties": {
                 "name": "Grizzlys",
-                "styleUrl": "#style66",
-                "styleHash": "-2045a35d"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -547,8 +514,7 @@
             },
             "properties": {
                 "name": "Hu Hot",
-                "styleUrl": "#style68",
-                "styleHash": "1b74b5d"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -563,8 +529,7 @@
             },
             "properties": {
                 "name": "Jimmy Johns",
-                "styleUrl": "#style8",
-                "styleHash": "-38f9040d"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -579,8 +544,7 @@
             },
             "properties": {
                 "name": "Olive Garden",
-                "styleUrl": "#style67",
-                "styleHash": "99a64fe"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -595,8 +559,7 @@
             },
             "properties": {
                 "name": "Applebees",
-                "styleUrl": "#style6",
-                "styleHash": "-2932d0cb"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -611,8 +574,7 @@
             },
             "properties": {
                 "name": "Panera",
-                "styleUrl": "#style23",
-                "styleHash": "-4d8ca82"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -627,8 +589,7 @@
             },
             "properties": {
                 "name": "Buffalo Wild Wings",
-                "styleUrl": "#style40",
-                "styleHash": "29d04d63"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -643,9 +604,8 @@
             },
             "properties": {
                 "name": "Picana",
-                "styleUrl": "#style48",
-                "styleHash": "-5b9adfa1",
-                "description": "<div dir=\"ltr\">Brazilian Steak House</div>"
+                "marker-symbol": "restaurant",
+                "description": "Brazilian Steak House"
             }
         },
         {
@@ -660,8 +620,7 @@
             },
             "properties": {
                 "name": "Texas Road House",
-                "styleUrl": "#style16",
-                "styleHash": "-2801fce6"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -676,9 +635,8 @@
             },
             "properties": {
                 "name": "Fujis",
-                "styleUrl": "#style62",
-                "styleHash": "-2181ed9",
-                "description": "<div dir=\"ltr\">Japanese</div>"
+                "marker-symbol": "restaurant",
+                "description": "Japanese"
             }
         },
         {
@@ -693,8 +651,7 @@
             },
             "properties": {
                 "name": "Mc Donalds",
-                "styleUrl": "#style44",
-                "styleHash": "a43e6df"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -709,8 +666,7 @@
             },
             "properties": {
                 "name": "Fazolis",
-                "styleUrl": "#style43",
-                "styleHash": "12270080"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -725,9 +681,8 @@
             },
             "properties": {
                 "name": "Northwoods",
-                "styleUrl": "#style56",
-                "styleHash": "99b1fa2",
-                "description": "<div dir=\"ltr\">Burgers and Microbrewery</div>"
+                "marker-symbol": "restaurant",
+                "description": "Burgers and Microbrewery"
             }
         },
         {
@@ -742,9 +697,8 @@
             },
             "properties": {
                 "name": "Famous Daves",
-                "styleUrl": "#style3",
-                "styleHash": "-118983e8",
-                "description": "<div dir=\"ltr\">BBQ</div>"
+                "marker-symbol": "restaurant",
+                "description": "BBQ"
             }
         },
         {
@@ -759,9 +713,8 @@
             },
             "properties": {
                 "name": "Milwuakee Burger Company",
-                "styleUrl": "#style57",
-                "styleHash": "420fbe81",
-                "description": "<div dir=\"ltr\">Burgers that are good, but not good for you</div>"
+                "marker-symbol": "restaurant",
+                "description": "Burgers that are good, but not good for you"
             }
         },
         {
@@ -776,8 +729,7 @@
             },
             "properties": {
                 "name": "Pizza Hut",
-                "styleUrl": "#style71",
-                "styleHash": "446ce445"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -792,9 +744,8 @@
             },
             "properties": {
                 "name": "Erberts and Gerberts",
-                "styleUrl": "#style54",
-                "styleHash": "15c3cc60",
-                "description": "<div dir=\"ltr\">Subs with funny names</div>"
+                "marker-symbol": "fast-food",
+                "description": "Subs with funny names"
             }
         },
         {
@@ -809,8 +760,7 @@
             },
             "properties": {
                 "name": "Dickeys BBQ Pit",
-                "styleUrl": "#style32",
-                "styleHash": "7b8a2a24"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -825,8 +775,7 @@
             },
             "properties": {
                 "name": "Red Lobster",
-                "styleUrl": "#style35",
-                "styleHash": "-91f1843"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -841,9 +790,8 @@
             },
             "properties": {
                 "name": "Houligans Steak & Seafood",
-                "styleUrl": "#style36",
-                "styleHash": "5d5ca5a0",
-                "description": "<div dir=\"ltr\">$$ - but very good</div>"
+                "marker-symbol": "restaurant",
+                "description": "$$ - but very good"
             }
         },
         {
@@ -858,9 +806,8 @@
             },
             "properties": {
                 "name": "Stella Blues",
-                "styleUrl": "#style1",
-                "styleHash": "3acb7de",
-                "description": "<div dir=\"ltr\">Cajun</div>"
+                "marker-symbol": "restaurant",
+                "description": "Cajun"
             }
         },
         {
@@ -875,8 +822,7 @@
             },
             "properties": {
                 "name": "Smiling Moose Deli",
-                "styleUrl": "#style49",
-                "styleHash": "-1c1f9726"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -891,8 +837,7 @@
             },
             "properties": {
                 "name": "Broadway Pizza",
-                "styleUrl": "#style37",
-                "styleHash": "-6a2ebb81"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -907,8 +852,7 @@
             },
             "properties": {
                 "name": "KFC",
-                "styleUrl": "#style42",
-                "styleHash": "1a0a1a21"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -923,8 +867,7 @@
             },
             "properties": {
                 "name": "Wiskey Dicks",
-                "styleUrl": "#style21",
-                "styleHash": "6cf64e44"
+                "marker-symbol": "beer"
             }
         },
         {
@@ -939,9 +882,8 @@
             },
             "properties": {
                 "name": "Delish Cuisine",
-                "styleUrl": "#style59",
-                "styleHash": "-11abb3c5",
-                "description": "<div dir=\"ltr\">Greek</div>"
+                "marker-symbol": "restaurant",
+                "description": "Greekish"
             }
         },
         {
@@ -956,8 +898,7 @@
             },
             "properties": {
                 "name": "Perkins",
-                "styleUrl": "#style47",
-                "styleHash": "-d656604"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -972,8 +913,7 @@
             },
             "properties": {
                 "name": "Burger King",
-                "styleUrl": "#style26",
-                "styleHash": "-1c821765"
+                "marker-symbol": "fast-food"
             }
         },
         {
@@ -988,8 +928,7 @@
             },
             "properties": {
                 "name": "Dooleys Pub",
-                "styleUrl": "#style50",
-                "styleHash": "355032e4"
+                "marker-symbol": "beer"
             }
         },
         {
@@ -1004,8 +943,7 @@
             },
             "properties": {
                 "name": "Mona Lisa's",
-                "styleUrl": "#style64",
-                "styleHash": "2143b1e1"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1020,9 +958,8 @@
             },
             "properties": {
                 "name": "Erberts & Gerberts",
-                "styleUrl": "#style19",
-                "styleHash": "6182b1d7",
-                "description": "<div dir=\"ltr\">Subs with funny names</div>"
+                "marker-symbol": "restaurant",
+                "description": "Subs with funny names"
             }
         },
         {
@@ -1037,9 +974,8 @@
             },
             "properties": {
                 "name": "El Patio",
-                "styleUrl": "#style18",
-                "styleHash": "290e12f8",
-                "description": "<div dir=\"ltr\">Mexican</div>"
+                "marker-symbol": "restaurant",
+                "description": "Mexican"
             }
         },
         {
@@ -1054,8 +990,7 @@
             },
             "properties": {
                 "name": "Burrachos",
-                "styleUrl": "#style53",
-                "styleHash": "6743eca1"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1070,8 +1005,7 @@
             },
             "properties": {
                 "name": "Pizza Del Re",
-                "styleUrl": "#style13",
-                "styleHash": "69db2799"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1086,8 +1020,7 @@
             },
             "properties": {
                 "name": "Shanghai Bistro",
-                "styleUrl": "#style61",
-                "styleHash": "-3386141c"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1102,8 +1035,7 @@
             },
             "properties": {
                 "name": "China Buffet",
-                "styleUrl": "#style27",
-                "styleHash": "-39474ee6"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1118,8 +1050,7 @@
             },
             "properties": {
                 "name": "Dana's Grill & Bar",
-                "styleUrl": "#style45",
-                "styleHash": "7c94a4da"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1134,8 +1065,7 @@
             },
             "properties": {
                 "name": "Manny's Cocina",
-                "styleUrl": "#style39",
-                "styleHash": "6ba823d"
+                "marker-symbol": "restaurant"
             }
         },
         {
@@ -1150,9 +1080,8 @@
             },
             "properties": {
                 "name": "Fired Up Pizza",
-                "styleUrl": "#style30",
-                "styleHash": "aa0ec66",
-                "description": "<div dir=\"ltr\">Rather good.</div>"
+                "marker-symbol": "restaurant",
+                "description": "Rather good."
             }
         }
     ]
