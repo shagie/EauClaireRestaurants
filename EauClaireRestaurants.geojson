@@ -1,0 +1,1159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.584564,
+                    44.84528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Menards GO",
+                "styleUrl": "#style24",
+                "styleHash": "-4e543035"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.568596,
+                    44.851456,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Midwest Manufacturing GO",
+                "styleUrl": "#style4",
+                "styleHash": "-3280239b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.551208,
+                    44.891605,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "29 Pines",
+                "styleUrl": "#style12",
+                "styleHash": "71be413a",
+                "description": "<div dir=\"ltr\">Travel Plaza and Sit down place</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.592934,
+                    44.844322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Burger King",
+                "styleUrl": "#style31",
+                "styleHash": "-6f5eda23",
+                "description": "<div dir=\"ltr\">Burger King<br>Warning - Slow service inside</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.595474,
+                    44.842674,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mc Donalds",
+                "styleUrl": "#style11",
+                "styleHash": "79a15adb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.593475,
+                    44.842312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Subway",
+                "styleUrl": "#style55",
+                "styleHash": "-77eb75a5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.524902,
+                    44.841827,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Subway",
+                "styleUrl": "#style41",
+                "styleHash": "-63def4a2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.546188,
+                    44.829014,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Culvers",
+                "styleUrl": "#style46",
+                "styleHash": "3a828c3d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.543465,
+                    44.828247,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Burger King",
+                "styleUrl": "#style2",
+                "styleHash": "708d6d55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.541969,
+                    44.827206,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden Dragon",
+                "styleUrl": "#style28",
+                "styleHash": "-d2b007",
+                "description": "<div dir=\"ltr\">Chinese</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.542076,
+                    44.82687,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cancun",
+                "styleUrl": "#style58",
+                "styleHash": "-7e74f904",
+                "description": "<div dir=\"ltr\">Mexican</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.543312,
+                    44.822563,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mikes Smokehouse",
+                "styleUrl": "#style33",
+                "styleHash": "-44fa8d61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.525932,
+                    44.800571,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dairy Queen",
+                "styleUrl": "#style51",
+                "styleHash": "-585f0f21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.530922,
+                    44.799873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Not Ciciones",
+                "styleUrl": "#style38",
+                "styleHash": "596b7276",
+                "description": "<div dir=\"ltr\">Not that great</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.522293,
+                    44.794483,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pizza Hut",
+                "styleUrl": "#style20",
+                "styleHash": "-72fba603"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.520073,
+                    44.792473,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Godfather's Pizza",
+                "styleUrl": "#style17",
+                "styleHash": "4a4ec115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.519409,
+                    44.792381,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Taco Bell",
+                "styleUrl": "#style9",
+                "styleHash": "3957b9ee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.518524,
+                    44.790508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Green Mill",
+                "styleUrl": "#style65",
+                "styleHash": "-58ba423c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.519417,
+                    44.789822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mc Donalds",
+                "styleUrl": "#style25",
+                "styleHash": "6594d9d8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.513153,
+                    44.792389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Starbucks",
+                "styleUrl": "#style5",
+                "styleHash": "58e42072"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.511765,
+                    44.792145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jimmy Johns",
+                "styleUrl": "#style69",
+                "styleHash": "74080958"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.510025,
+                    44.792442,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mancinos",
+                "styleUrl": "#style52",
+                "styleHash": "2ecf4dc2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.514282,
+                    44.793491,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hardees",
+                "styleUrl": "#style14",
+                "styleHash": "61f80df8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.515678,
+                    44.790291,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arbys",
+                "styleUrl": "#style34",
+                "styleHash": "78f7d8fa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.543236,
+                    44.831772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pizza Ranch",
+                "styleUrl": "#style63",
+                "styleHash": "3d6329a2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.458595,
+                    44.7705,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Robin",
+                "styleUrl": "#style60",
+                "styleHash": "-73015c97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.461914,
+                    44.770897,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dairy Queen",
+                "styleUrl": "#style70",
+                "styleHash": "4c4ffde6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.464012,
+                    44.770958,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cousins Subs",
+                "styleUrl": "#style15",
+                "styleHash": "-201ee345"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.464378,
+                    44.771805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Quizros",
+                "styleUrl": "#style10",
+                "styleHash": "7509ce0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.441093,
+                    44.775764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mall",
+                "styleUrl": "#style7",
+                "styleHash": "-3115ea6c",
+                "description": "<div dir=\"ltr\">Food court<br>Fridays</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.437973,
+                    44.774601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chipolte",
+                "styleUrl": "#style22",
+                "styleHash": "30a4f1f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.438065,
+                    44.775223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Culvers",
+                "styleUrl": "#style29",
+                "styleHash": "-342b6448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.440697,
+                    44.778263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grizzlys",
+                "styleUrl": "#style66",
+                "styleHash": "-2045a35d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.438324,
+                    44.777821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hu Hot",
+                "styleUrl": "#style68",
+                "styleHash": "1b74b5d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.43824,
+                    44.777676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jimmy Johns",
+                "styleUrl": "#style8",
+                "styleHash": "-38f9040d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.437683,
+                    44.776173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Olive Garden",
+                "styleUrl": "#style67",
+                "styleHash": "99a64fe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.436882,
+                    44.775043,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Applebees",
+                "styleUrl": "#style6",
+                "styleHash": "-2932d0cb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.438499,
+                    44.771164,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Panera",
+                "styleUrl": "#style23",
+                "styleHash": "-4d8ca82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.437515,
+                    44.772259,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Buffalo Wild Wings",
+                "styleUrl": "#style40",
+                "styleHash": "29d04d63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.429619,
+                    44.771599,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Picana",
+                "styleUrl": "#style48",
+                "styleHash": "-5b9adfa1",
+                "description": "<div dir=\"ltr\">Brazilian Steak House</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.428665,
+                    44.770729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Texas Road House",
+                "styleUrl": "#style16",
+                "styleHash": "-2801fce6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.430916,
+                    44.771263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fujis",
+                "styleUrl": "#style62",
+                "styleHash": "-2181ed9",
+                "description": "<div dir=\"ltr\">Japanese</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.433022,
+                    44.777592,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mc Donalds",
+                "styleUrl": "#style44",
+                "styleHash": "a43e6df"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.432152,
+                    44.777355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fazolis",
+                "styleUrl": "#style43",
+                "styleHash": "12270080"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.441154,
+                    44.780045,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Northwoods",
+                "styleUrl": "#style56",
+                "styleHash": "99b1fa2",
+                "description": "<div dir=\"ltr\">Burgers and Microbrewery</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.460091,
+                    44.788895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Famous Daves",
+                "styleUrl": "#style3",
+                "styleHash": "-118983e8",
+                "description": "<div dir=\"ltr\">BBQ</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.464066,
+                    44.795212,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milwuakee Burger Company",
+                "styleUrl": "#style57",
+                "styleHash": "420fbe81",
+                "description": "<div dir=\"ltr\">Burgers that are good, but not good for you</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.46418,
+                    44.795696,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pizza Hut",
+                "styleUrl": "#style71",
+                "styleHash": "446ce445"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.467552,
+                    44.79512,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Erberts and Gerberts",
+                "styleUrl": "#style54",
+                "styleHash": "15c3cc60",
+                "description": "<div dir=\"ltr\">Subs with funny names</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.493744,
+                    44.792458,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dickeys BBQ Pit",
+                "styleUrl": "#style32",
+                "styleHash": "7b8a2a24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.514503,
+                    44.792145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Lobster",
+                "styleUrl": "#style35",
+                "styleHash": "-91f1843"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.498055,
+                    44.809654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Houligans Steak & Seafood",
+                "styleUrl": "#style36",
+                "styleHash": "5d5ca5a0",
+                "description": "<div dir=\"ltr\">$$ - but very good</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.502899,
+                    44.816483,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stella Blues",
+                "styleUrl": "#style1",
+                "styleHash": "3acb7de",
+                "description": "<div dir=\"ltr\">Cajun</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.504204,
+                    44.815704,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smiling Moose Deli",
+                "styleUrl": "#style49",
+                "styleHash": "-1c1f9726"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.467201,
+                    44.798866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Broadway Pizza",
+                "styleUrl": "#style37",
+                "styleHash": "-6a2ebb81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.466164,
+                    44.799152,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "KFC",
+                "styleUrl": "#style42",
+                "styleHash": "1a0a1a21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.464729,
+                    44.800461,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wiskey Dicks",
+                "styleUrl": "#style21",
+                "styleHash": "6cf64e44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.470604,
+                    44.803158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Delish Cuisine",
+                "styleUrl": "#style59",
+                "styleHash": "-11abb3c5",
+                "description": "<div dir=\"ltr\">Greek</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.471893,
+                    44.807098,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Perkins",
+                "styleUrl": "#style47",
+                "styleHash": "-d656604"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.472115,
+                    44.808033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Burger King",
+                "styleUrl": "#style26",
+                "styleHash": "-1c821765"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.50956,
+                    44.802334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dooleys Pub",
+                "styleUrl": "#style50",
+                "styleHash": "355032e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.508942,
+                    44.802353,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mona Lisa's",
+                "styleUrl": "#style64",
+                "styleHash": "2143b1e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.50827,
+                    44.802139,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Erberts & Gerberts",
+                "styleUrl": "#style19",
+                "styleHash": "6182b1d7",
+                "description": "<div dir=\"ltr\">Subs with funny names</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.504921,
+                    44.802391,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Patio",
+                "styleUrl": "#style18",
+                "styleHash": "290e12f8",
+                "description": "<div dir=\"ltr\">Mexican</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.507065,
+                    44.802021,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Burrachos",
+                "styleUrl": "#style53",
+                "styleHash": "6743eca1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.475685,
+                    44.825462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pizza Del Re",
+                "styleUrl": "#style13",
+                "styleHash": "69db2799"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.51963,
+                    44.787964,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Bistro",
+                "styleUrl": "#style61",
+                "styleHash": "-3386141c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.513672,
+                    44.791111,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "China Buffet",
+                "styleUrl": "#style27",
+                "styleHash": "-39474ee6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.602043,
+                    44.844311,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dana's Grill & Bar",
+                "styleUrl": "#style45",
+                "styleHash": "7c94a4da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.445793,
+                    44.77383,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manny's Cocina",
+                "styleUrl": "#style39",
+                "styleHash": "6ba823d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.436501,
+                    44.771179,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fired Up Pizza",
+                "styleUrl": "#style30",
+                "styleHash": "aa0ec66",
+                "description": "<div dir=\"ltr\">Rather good.</div>"
+            }
+        }
+    ]
+}
