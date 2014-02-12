@@ -1098,6 +1098,21 @@
                 "marker-symbol": "restaurant",
                 "description": "Rather good."
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ray's",
+                "marker-symbol": "bar",
+                "description": "Trivia!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.51758313179016,
+                    44.802339308337956
+                ]
+            }
         }
     ]
 }
